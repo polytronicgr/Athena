@@ -62,7 +62,7 @@ Nearest
 
 To carry out an exhaustive test of the model, select the ***Test [T]*** option. This will load analogies from the ***test.txt*** file. These should be in the form of *athens greece baghdad iraq*.
 
-Let me know how you get on...
+Follow me on [Twitter](https://twitter.com/Robosoup) for more updates like this.
 
 @robosoup
 www.robosoup.com
